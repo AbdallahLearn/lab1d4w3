@@ -5,6 +5,7 @@ document.getElementsByClassName('h1')[0].style.backgroundColor='black'
 
 // Q2
 let element = document.getElementById('p')
+element.style.fontWeight ="bold"
 let size = element.classList.add("p")
 
 
